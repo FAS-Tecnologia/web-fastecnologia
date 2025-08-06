@@ -7,7 +7,7 @@ export function Router() {
     <Routes>
       <Route path="/" element={<HomePage />} />
 
-      <Route path="privacy" element={<PrivacyPage />} />
+      <Route path="/privacidade" element={<PrivacyPage />} />
     </Routes>
   );
 }
