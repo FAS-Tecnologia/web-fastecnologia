@@ -25,7 +25,7 @@ export function PrivacyPage() {
           antecedência.
         </Text>
       </div>
-      Mas
+
       <div className="mt-3">
         <Title>2. Como Usamos Seus Dados</Title>
 
