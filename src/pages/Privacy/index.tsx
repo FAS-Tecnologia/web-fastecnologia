@@ -7,14 +7,12 @@ export function PrivacyPage() {
       <h1 className="text-3xl text-center font-bold mt-2 mb-10">
         Termos de uso e privacidade
       </h1>
-
       <Text>
         Olá! Agradecemos por usar o ChefX. Para que você aproveite nosso
         aplicativo da melhor forma e com segurança, preparamos este resumo sobre
         como funcionamos. Ao usar o ChefX, você concorda com o que está escrito
         aqui.
       </Text>
-
       <div className="mt-3">
         <Title>1. Sobre o ChefX</Title>
 
@@ -27,7 +25,7 @@ export function PrivacyPage() {
           antecedência.
         </Text>
       </div>
-
+      Mas
       <div className="mt-3">
         <Title>2. Como Usamos Seus Dados</Title>
 
@@ -42,7 +40,6 @@ export function PrivacyPage() {
           são nossa prioridade.
         </Text>
       </div>
-
       <div className="mt-3">
         <Title>3. Mudanças na Nossa Política</Title>
 
@@ -53,7 +50,6 @@ export function PrivacyPage() {
           quando para ficar por dentro das novidades.
         </Text>
       </div>
-
       <div className="mt-3">
         <Title>Para Concluir</Title>
 
@@ -63,7 +59,6 @@ export function PrivacyPage() {
           com a gente pelo nosso site oficial.
         </Text>
       </div>
-
       <div className="mt-15 pb-3">
         <p>
           FAS Tecnologia <br /> Última atualização: <b>06/08/2025</b>
